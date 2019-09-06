@@ -2,10 +2,10 @@
 
 ### Install
 ```
-yarn add react_carousel_comp
+yarn add react_carousel_comp_xujie
 ```
 ```
-npm i react_carousel_comp
+npm i react_carousel_comp_xujie
 ```
 ### demo
 [demo](https://jyoketsu.github.io/react_carousel_comp/)
